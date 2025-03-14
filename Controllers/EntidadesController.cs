@@ -10,7 +10,7 @@ using Microsoft.Data.SqlClient; // Importa el espacio de nombres necesario para 
 using System.Linq; // Importa el espacio de nombres para operaciones de consulta con LINQ.
 using System.Text.Json; // Importa el espacio de nombres para manejar JSON.
 //using csharpapi.Models; // Importa los modelos del proyecto.
-using csharpapi.Services; // Importa los servicios del proyecto.
+using csharapigenerica.Services; // Importa los servicios del proyecto.
 using BCrypt.Net; // Importa el espacio de nombres para trabajar con BCrypt para hashing de contraseñas.
 
 namespace ProyectoBackendCsharp.Controllers
